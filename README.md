@@ -11,3 +11,5 @@
 - [effective_go](https://go.dev/doc/effective_go)
 
 - [Go 语言设计与实现](https://draveness.me/golang/)
+
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
