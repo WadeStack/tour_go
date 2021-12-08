@@ -12,4 +12,6 @@
 
 - [Go 语言设计与实现](https://draveness.me/golang/)
 
+- [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
+
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
