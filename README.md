@@ -4,6 +4,8 @@
 
 - [gobyexample](https://gobyexample.com/)
 
+- [go doc](https://go.dev/doc/)
+
 - [Python/Golang Web 入坑指南](https://python-web-guide.readthedocs.io/zh/latest/)
 
 - [learn-go-with-tests](https://studygolang.gitbook.io/learn-go-with-tests/)
