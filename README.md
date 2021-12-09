@@ -15,3 +15,5 @@
 - [Go语言高级编程](https://chai2010.cn/advanced-go-programming-book/)
 
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+- [build-web-application-with-golang 中文版](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
